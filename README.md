@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c0t3
-- 👀 I’m interested in c++
+- 👀 I’m interested in c/c++
 - 🌱 I’m currently learning Software Engeneering
 - 💞️ I’m looking to collaborate ..
 - 📫 How to reach me emisilvacab@gmail.com
