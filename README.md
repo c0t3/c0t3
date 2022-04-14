@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emisilvacab
 - 👀 I’m interested in c/c++
-- 🌱 I’m currently learning Software Engeneering
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate ..
 - 📫 How to reach me emisilvacab@gmail.com
 
