@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emisilvacab
-- 👀 I’m interested in java/c/c++
+- 👀 I’m interested in java/c/c++/c#
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate ..
 - 📫 How to reach me emisilvacab@gmail.com
