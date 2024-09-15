@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1> About me </h1>
-  <div style="; margin-bottom: 15px">
+  <div style="margin-bottom: 15px;">
     I am a Computer Engineering student passionate about software development.<br>
     Feel free to reach out to me at: <a href="mailto:emisilvacab@gmail.com">emisilvacab@gmail.com</a>
   </div>
