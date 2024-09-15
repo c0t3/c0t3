@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @emisilvacab
-- 👀 I’m interested in elixir/java/c/c++
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate ..
-- 📫 How to reach me emisilvacab@gmail.com
+<div style="text-align: center;">
+  <h1> About me </h1>
+  <div style="; margin-bottom: 15px">
+    I am a Computer Engineering student passionate about software development.<br>
+    Feel free to reach out to me at: <a href="mailto:emisilvacab@gmail.com">emisilvacab@gmail.com</a>
+  </div>
 
-<!-- ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU5YjBiNDJkZDEyMjJjZWJhZmYwYjhiY2E5ZDczNGY1ODg1OWNjMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cRHgphdnVZMtRLZlT1/giphy.gif) -->
+  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+  <img style="height: 180px; border-style:" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ4NHZ6MjJrOGMxNHhvb3hkOXRpYTNjY2N2NnhwNXp3Y25rN3pnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqwzq0LoZOfLqqJZ0b/giphy.gif"/>
+</div>
